@@ -314,87 +314,87 @@ local hash = "gp_lang:"..msg.to.id
 local lang = redis:get(hash)
 if not lang then
 helpfun_en = [[
-_Beyond Reborn Fun Help Commands:_
+_sasan Reborn Fun Help Commands:_
 
-*!time*
-_Get time in a sticker_
+*🕹🎮🌈💥time*
+🌟❄️☝🏻👉🏻Get time in a sticker🌟❄️☝🏻👉🏻
 
-*!short* `[link]`
-_Make short url_
+*🕹🎮🌈💥short* `[link]`
+🌟❄️☝🏻👉🏻Make short url🌟❄️☝🏻👉🏻
 
-*!voice* `[text]`
-_Convert text to voice_
+*🕹🎮🌈💥voice* `[text]`
+🌟❄️☝🏻👉🏻Convert text to voice🌟❄️☝🏻👉🏻
 
-*!tr* `[lang] [word]`
-_Translates FA to EN and EN to FA_
-_Example:_
-*!tr fa hi*
+*🕹🎮🌈💥tr* `[lang] [word]`
+🌟❄️☝🏻👉🏻Translates FA to EN and EN to FA🌟❄️☝🏻👉🏻
+🌟❄️☝🏻👉🏻Example:🌟❄️☝🏻👉🏻
+*🕹🎮🌈💥tr fa hi*
 
-*!sticker* `[word]`
-_Convert text to sticker_
+*🕹🎮🌈💥sticker* `[word]`
+🌟❄️☝🏻👉🏻Convert text to sticker🌟❄️☝🏻👉🏻
 
-*!photo* `[word]`
-_Convert text to photo_
+*🕹🎮🌈💥photo* `[word]`
+🌟❄️☝🏻👉🏻Convert text to photo🌟❄️☝🏻👉🏻
 
-*!calc* `[number]`
+*🕹🎮🌈💥calc* `[number]`
 Calculator
 
-*!praytime* `[city]`
-_Get Patent (Pray Time)_
+*🕹🎮🌈💥praytime* `[city]`
+🌟❄️☝🏻👉🏻Get Patent (Pray Time)🌟❄️☝🏻👉🏻
 
-*!tosticker* `[reply]`
-_Convert photo to sticker_
+*🕹🎮🌈💥tosticker* `[reply]`
+🌟❄️☝🏻👉🏻Convert photo to sticker🌟❄️☝🏻👉🏻
 
-*!tophoto* `[reply]`
-_Convert text to photo_
+*🕹🎮🌈💥tophoto* `[reply]`
+🌟❄️☝🏻👉🏻Convert text to photo🌟❄️☝🏻👉🏻
 
-*!weather* `[city]`
-_Get weather_
+*🕹🎮🌈💥weather* `[city]`
+🌟❄️☝🏻👉🏻Get weather🌟❄️☝🏻👉🏻
 
-_You can use_ *[!/#]* _at the beginning of commands._
+🌟❄️☝🏻👉🏻You can use🌟❄️☝🏻👉🏻 *[!/#]* 🌟❄️☝🏻👉🏻at the beginning of commands.🌟❄️☝🏻👉🏻
 
 *Good luck ;)*]]
 else
 
 helpfun_en = [[
-_راهنمای فان ربات بیوند:_
+🌟❄️☝🏻👉🏻راهنمای فان ربات بیوند:🌟❄️☝🏻👉🏻
 
-*!time*
-_دریافت ساعت به صورت استیکر_
+*🕹🎮🌈💥time*
+🌟❄️☝🏻👉🏻دریافت ساعت به صورت استیکر🌟❄️☝🏻👉🏻
 
-*!short* `[link]`
-_کوتاه کننده لینک_
+*🕹🎮🌈💥short* `[link]`
+🌟❄️☝🏻👉🏻کوتاه کننده لینک🌟❄️☝🏻👉🏻
 
-*!voice* `[text]`
-_تبدیل متن به صدا_
+*🕹🎮🌈💥voice* `[text]`
+🌟❄️☝🏻👉🏻تبدیل متن به صدا🌟❄️☝🏻👉🏻
 
-*!tr* `[lang]` `[word]`
-_ترجمه متن فارسی به انگلیسی وبرعکس_
-_مثال:_
-_!tr en سلام_
+*🕹🎮🌈💥tr* `[lang]` `[word]`
+🌟❄️☝🏻👉🏻ترجمه متن فارسی به انگلیسی وبرعکس🌟❄️☝🏻👉🏻
+🌟❄️☝🏻👉🏻مثال:🌟❄️☝🏻👉🏻
+🌟❄️☝🏻👉🏻🕹🎮🌈💥tr en سلام🌟❄️☝🏻👉🏻
 
-*!sticker* `[word]`
-_تبدیل متن به استیکر_
+*🕹🎮🌈💥sticker* `[word]`
+🌟❄️☝🏻👉🏻تبدیل متن به استیکر🌟❄️☝🏻👉🏻
 
-*!photo* `[word]`
-_تبدیل متن به عکس_
+*🕹🎮🌈💥photo* `[word]`
+🌟❄️☝🏻👉🏻تبدیل متن به عکس🌟❄️☝🏻👉🏻
 
-*!calc* `[number]`
-_ماشین حساب_
+*🕹🎮🌈💥calc* `[number]`
+🌟❄️☝🏻👉🏻ماشین حساب🌟❄️☝🏻👉🏻
 
-*!praytime* `[city]`
-_اعلام ساعات شرعی_
+*🕹🎮🌈💥praytime* `[city]`
+🌟❄️☝🏻👉🏻اعلام ساعات شرعی🌟❄️☝🏻👉🏻
 
-*!tosticker* `[reply]`
-_تبدیل عکس به استیکر_
+*🕹🎮🌈💥tosticker* `[reply]`
+🌟❄️☝🏻👉🏻تبدیل عکس به استیکر🌟❄️☝🏻👉🏻
 
-*!tophoto* `[reply]`
-_تبدیل استیکر‌به عکس_
+*🕹🎮🌈💥tophoto* `[reply]`
+🌟❄️☝🏻👉🏻تبدیل استیکر‌به عکس🌟❄️☝🏻👉🏻
 
-*!weather* `[city]`
-_دریافت اب وهوا_
+*🕹🎮🌈💥weather* `[city]`
+🌟❄️☝🏻👉🏻دریافت اب وهوا🌟❄️☝🏻👉🏻
 
-*شما میتوانید از [!/#] در اول دستورات برای اجرای آنها بهره بگیرید*
+*شما میتوانید از [🕹🎮🌈💥/#] در اول دستورات برای اجرای آنها بهره بگیرید*
 
 موفق باشید ;)]]
 end
@@ -406,83 +406,83 @@ local hash = "gp_lang:"..msg.to.id
 local lang = redis:get(hash)
 if not lang then
 helpfun_fa = [[
-_Beyond Reborn Fun Help Commands:_
+_sasan Reborn Fun Help Commands:_
 
-*ساعت*
-_Get time in a sticker_
+⚛️⭕️✳️ساعت⚛️⭕️✳️
+🔹🔶☝️🏻👉🏻Get time in a sticker🔹🔶☝️🏻👉🏻
 
-*لینک کوتاه* `[لینک]`
-_Make short url_
+⚛️⭕️✳️لینک کوتاه⚛️⭕️✳️ `[لینک]`
+🔹🔶☝️🏻👉🏻Make short url🔹🔶☝️🏻👉🏻
 
-*تبدیل به صدا* `[متن]`
-_Convert text to voice_
+⚛️⭕️✳️تبدیل به صدا⚛️⭕️✳️ `[متن]`
+🔹🔶☝️🏻👉🏻Convert text to voice🔹🔶☝️🏻👉🏻
 
-*ترجمه* `[زبان] [کلمه]`
-_Translates FA to EN and EN to FA_
-_Example:_
-*ترجمه hi fa*
+⚛️⭕️✳️ترجمه⚛️⭕️✳️ `[زبان] [کلمه]`
+🔹🔶☝️🏻👉🏻Translates FA to EN and EN to FA🔹🔶☝️🏻👉🏻
+🔹🔶☝️🏻👉🏻Example:🔹🔶☝️🏻👉🏻
+⚛️⭕️✳️ترجمه hi fa⚛️⭕️✳️
 
-*استیکر* `[متن]`
-_Convert text to sticker_
+⚛️⭕️✳️استیکر⚛️⭕️✳️ `[متن]`
+🔹🔶☝️🏻👉🏻Convert text to sticker🔹🔶☝️🏻👉🏻
 
-*عکس* `[متن]`
-_Convert text to photo_
+⚛️⭕️✳️عکس⚛️⭕️✳️ `[متن]`
+🔹🔶☝️🏻👉🏻Convert text to photo🔹🔶☝️🏻👉🏻
 
-*ماشین حساب* `[معادله]`
+⚛️⭕️✳️ماشین حساب⚛️⭕️✳️ `[معادله]`
 Calculator
 
-*ساعات شرعی* `[شهر]`
-_Get Patent (Pray Time)_
+⚛️⭕️✳️ساعات شرعی⚛️⭕️✳️ `[شهر]`
+🔹🔶☝️🏻👉🏻Get Patent (Pray Time)🔹🔶☝️🏻👉🏻
 
-*تبدیل به استیکر* `[ریپلی]`
-_Convert photo to sticker_
+⚛️⭕️✳️تبدیل به استیکر⚛️⭕️✳️ `[ریپلی]`
+🔹🔶☝️🏻👉🏻Convert photo to sticker🔹🔶☝️🏻👉🏻
 
-*تبدیل به عکس* `[ریپلی]`
-_Convert text to photo_
+⚛️⭕️✳️تبدیل به عکس⚛️⭕️✳️ `[ریپلی]`
+🔹🔶☝️🏻👉🏻Convert text to photo🔹🔶☝️🏻👉🏻
 
-*اب و هوا* `[شهر]`
-_Get weather_
+⚛️⭕️✳️اب و هوا⚛️⭕️✳️ `[شهر]`
+🔹🔶☝️🏻👉🏻Get weather🔹🔶☝️🏻👉🏻
 
 *Good luck ;)*]]
 else
 
 helpfun_fa = [[
-_راهنمای فان ربات بیوند:_
+_راهنمای ربات  ساسان_
 
-*ساعت*
-_دریافت ساعت به صورت استیکر_
+⚛️⭕️✳️ساعت⚛️⭕️✳️
+🔹🔶☝️🏻👉🏻دریافت ساعت به صورت استیکر🔹🔶☝️🏻👉🏻
 
-*لینک کوتاه* `[لینک]`
-_کوتاه کننده لینک_
+⚛️⭕️✳️لینک کوتاه⚛️⭕️✳️ `[لینک]`
+🔹🔶☝️🏻👉🏻کوتاه کننده لینک🔹🔶☝️🏻👉🏻
 
-*تبدیل به صدا* `[متن]`
-_تبدیل متن به صدا_
+⚛️⭕️✳️تبدیل به صدا⚛️⭕️✳️ `[متن]`
+🔹🔶☝️🏻👉🏻تبدیل متن به صدا🔹🔶☝️🏻👉🏻
 
-*ترجمه* `[زبان]` `[متن]`
-_ترجمه متن فارسی به انگلیسی وبرعکس_
-_مثال:_
-_ترجمه en سلام_
+⚛️⭕️✳️ترجمه⚛️⭕️✳️ `[زبان]` `[متن]`
+🔹🔶☝️🏻👉🏻ترجمه متن فارسی به انگلیسی وبرعکس🔹🔶☝️🏻👉🏻
+🔹🔶☝️🏻👉🏻مثال:🔹🔶☝️🏻👉🏻
+🔹🔶☝️🏻👉🏻ترجمه en سلام🔹🔶☝️🏻👉🏻
 
-*استیکر* `[متن]`
-_تبدیل متن به استیکر_
+⚛️⭕️✳️استیکر⚛️⭕️✳️ `[متن]`
+🔹🔶☝️🏻👉🏻تبدیل متن به استیکر🔹🔶☝️🏻👉🏻
 
-*استیکر* `[متن]`
-_تبدیل متن به عکس_
+⚛️⭕️✳️استیکر⚛️⭕️✳️ `[متن]`
+🔹🔶☝️🏻👉🏻تبدیل متن به عکس🔹🔶☝️🏻👉🏻
 
-*ماشین حساب* `[معادله]`
-_ماشین حساب_
+⚛️⭕️✳️ماشین حساب⚛️⭕️✳️ `[معادله]`
+🔹🔶☝️🏻👉🏻ماشین حساب🔹🔶☝️🏻👉🏻
 
-*ساعات شرعی* `[شهر]`
-_اعلام ساعات شرعی_
+⚛️⭕️✳️ساعات شرعی⚛️⭕️✳️ `[شهر]`
+🔹🔶☝️🏻👉🏻اعلام ساعات شرعی🔹🔶☝️🏻👉🏻
 
-*تبدیل به استیکر* `[ریپلی]`
-_تبدیل عکس به استیکر_
+⚛️⭕️✳️تبدیل به استیکر⚛️⭕️✳️ `[ریپلی]`
+🔹🔶☝️🏻👉🏻تبدیل عکس به استیکر🔹🔶☝️🏻👉🏻
 
-*تبدیل به عکس* `[ریپلی]`
-_تبدیل استیکر‌به عکس_
+⚛️⭕️✳️تبدیل به عکس⚛️⭕️✳️ `[ریپلی]`
+🔹🔶☝️🏻👉🏻تبدیل استیکر‌به عکس🔹🔶☝️🏻👉🏻
 
-*اب و هوا* `[شهر]`
-_دریافت اب وهوا_
+⚛️⭕️✳️اب و هوا⚛️⭕️✳️ `[شهر]`
+🔹🔶☝️🏻👉🏻دریافت اب وهوا🔹🔶☝️🏻👉🏻
 
 موفق باشید ;)]]
 end
