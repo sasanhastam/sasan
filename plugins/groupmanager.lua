@@ -3431,191 +3431,191 @@ text = [[
 *⚙️sasan bot setting⚙️:*
 
 🔥🌟👉🏻setowner🔥 `[username|id|reply]` 
- 🌈⭕️👆🏻👉🏻Set Group Owner(Multi Owner) 🌈⭕️👆🏻👉🏻
+ ⭕️💎Set Group Owner(Multi Owner) ⭕️💎
 									  
 									
 🔥🌟👉🏻remowner🔥 `[username|id|reply]` 
-  🌈⭕️👆🏻👉🏻Remove User From Owner List 🌈⭕️👆🏻👉🏻
+  ⭕️💎Remove User From Owner List ⭕️💎
 
  
 🔥🌟👉🏻promote🔥 `[username|id|reply]` 
- 🌈⭕️👆🏻👉🏻Promote User To Group Admin 🌈⭕️👆🏻👉🏻
+ ⭕️💎Promote User To Group Admin ⭕️💎
 
 
 🔥🌟👉🏻demote🔥 `[username|id|reply]` 
- 🌈⭕️👆🏻👉🏻Demote User From Group Admins List 🌈⭕️👆🏻👉🏻
+ ⭕️💎Demote User From Group Admins List ⭕️💎
 
 
 🔥🌟👉🏻setflood🔥 `[1-50]`
- 🌈⭕️👆🏻👉🏻Set Flooding Number 🌈⭕️👆🏻👉🏻
+ ⭕️💎Set Flooding Number ⭕️💎
 
 
 🔥🌟👉🏻setchar🔥 `[Number]`
- 🌈⭕️👆🏻👉🏻Set Flooding Characters 🌈⭕️👆🏻👉🏻
+ ⭕️💎Set Flooding Characters ⭕️💎
 
 
 🔥🌟👉🏻setfloodtime🔥 `[1-10]`
- 🌈⭕️👆🏻👉🏻Set Flooding Time 🌈⭕️👆🏻👉🏻
+ ⭕️💎Set Flooding Time ⭕️💎
 
 
 🔥🌟👉🏻silent🔥 `[username|id|reply]` 
- 🌈⭕️👆🏻👉🏻Silent User From Group 🌈⭕️👆🏻👉🏻
+ ⭕️💎Silent User From Group ⭕️💎
 
 
 🔥🌟👉🏻unsilent🔥 `[username|id|reply]` 
- 🌈⭕️👆🏻👉🏻Unsilent User From Group 🌈⭕️👆🏻👉🏻
+ ⭕️💎Unsilent User From Group ⭕️💎
 
 
 🔥🌟👉🏻kick🔥 `[username|id|reply]` 
- 🌈⭕️👆🏻👉🏻Kick User From Group 🌈⭕️👆🏻👉🏻
+ ⭕️💎Kick User From Group ⭕️💎
 
 
 🔥🌟👉🏻ban🔥 `[username|id|reply]` 
- 🌈⭕️👆🏻👉🏻Ban User From Group 🌈⭕️👆🏻👉🏻
+ ⭕️💎Ban User From Group ⭕️💎
 
 
 🔥🌟👉🏻unban🔥 `[username|id|reply]` 
- 🌈⭕️👆🏻👉🏻UnBan User From Group 🌈⭕️👆🏻👉🏻
+ ⭕️💎UnBan User From Group ⭕️💎
 
 
 🔥🌟👉🏻whitelist🔥 [+-] `[username|id|reply]` 
- 🌈⭕️👆🏻👉🏻Add Or Remove User From White List 🌈⭕️👆🏻👉🏻
+ ⭕️💎Add Or Remove User From White List ⭕️💎
 
 
 🔥🌟👉🏻res🔥 `[username]`
- 🌈⭕️👆🏻👉🏻Show User ID🆔 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show User ID🆔 ⭕️💎
 
 
 🔥🌟👉🏻id🔥 `[reply]`
- 🌈⭕️👆🏻👉🏻Show User ID🆔 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show User ID🆔 ⭕️💎
 
 
 🔥🌟👉🏻whois🔥 `[id]`
- 🌈⭕️👆🏻👉🏻Show User's Username And Name 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show User's Username And Name ⭕️💎
 
 
 🔥🌟👉🏻lock🔥 `[link | join | tag | edit | arabic | webpage | bots | spam | flood | markdown | mention | pin | cmds]`
- 🌈⭕️👆🏻👉🏻If This Actions Lock, Bot Check Actions And Delete Them 🌈⭕️👆🏻👉🏻
+ ⭕️💎If This Actions Lock, Bot Check Actions And Delete Them ⭕️💎
 
 
 🔥🌟👉🏻unlock🔥 `[link | tag | edit | arabic | webpage | bots | spam | flood | markdown | mention | pin]`
- 🌈⭕️👆🏻👉🏻If This Actions Unlock, Bot Not Delete Them 🌈⭕️👆🏻👉🏻
+ ⭕️💎If This Actions Unlock, Bot Not Delete Them ⭕️💎
 
 
 🔥🌟👉🏻mute🔥 `[gif | photo | document | sticker | keyboard | video | text | forward | location | audio | voice | contact | all]`
- 🌈⭕️👆🏻👉🏻If This Actions Lock, Bot Check Actions And Delete Them 🌈⭕️👆🏻👉🏻
+ ⭕️💎If This Actions Lock, Bot Check Actions And Delete Them ⭕️💎
 
 
 🔥🌟👉🏻unmute🔥 `[gif | photo | document | sticker | keyboard | video | text | forward | location | audio | voice | contact | all]`
- 🌈⭕️👆🏻👉🏻If This Actions Unlock, Bot Not Delete Them 🌈⭕️👆🏻👉🏻
+ ⭕️💎If This Actions Unlock, Bot Not Delete Them ⭕️💎
 
 
 🔥🌟👉🏻set🔥`[rules | name | photo | link | about | welcome]`
- 🌈⭕️👆🏻👉🏻Bot Set Them 🌈⭕️👆🏻👉🏻
+ ⭕️💎Bot Set Them ⭕️💎
 
 
 🔥🌟👉🏻clean🔥 `[bans | mods | bots | rules | about | silentlist | filtelist | welcome]`   
- 🌈⭕️👆🏻👉🏻Bot Clean Them 🌈⭕️👆🏻👉🏻
+ ⭕️💎Bot Clean Them ⭕️💎
 
 
 🔥🌟👉🏻filter🔥 `[word]`
- 🌈⭕️👆🏻👉🏻Word filter 🌈⭕️👆🏻👉🏻
+ ⭕️💎Word filter ⭕️💎
 
 
 🔥🌟👉🏻unfilter🔥 `[word]`
- 🌈⭕️👆🏻👉🏻Word unfilter 🌈⭕️👆🏻👉🏻
+ ⭕️💎Word unfilter ⭕️💎
 
 
 🔥🌟👉🏻pin🔥 `[reply]`
- 🌈⭕️👆🏻👉🏻Pin Your Message 🌈⭕️👆🏻👉🏻
+ ⭕️💎Pin Your Message ⭕️💎
 
 
 🔥🌟👉🏻unpin🔥 
- 🌈⭕️👆🏻👉🏻Unpin Pinned Message 🌈⭕️👆🏻👉🏻
+ ⭕️💎Unpin Pinned Message ⭕️💎
 
 
 🔥🌟👉🏻welcome enable/disable🔥
- 🌈⭕️👆🏻👉🏻Enable Or Disable Group Welcome 🌈⭕️👆🏻👉🏻
+ ⭕️💎Enable Or Disable Group Welcome ⭕️💎
 
 
 🔥🌟👉🏻settings🔥
- 🌈⭕️👆🏻👉🏻Show Group Settings 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Group Settings ⭕️💎
 
 
 🔥🌟👉🏻mutelist🔥
- 🌈⭕️👆🏻👉🏻Show Mutes List 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Mutes List ⭕️💎
 
 
 🔥🌟👉🏻silentlist🔥
- 🌈⭕️👆🏻👉🏻Show Silented Users List 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Silented Users List ⭕️💎
 
 
 🔥🌟👉🏻filterlist🔥
- 🌈⭕️👆🏻👉🏻Show Filtered Words List 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Filtered Words List ⭕️💎
 
 
 🔥🌟👉🏻banlist🔥
- 🌈⭕️👆🏻👉🏻Show Banned Users List 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Banned Users List ⭕️💎
 
 
 🔥🌟👉🏻ownerlist🔥
- 🌈⭕️👆🏻👉🏻Show Group Owners List 🌈⭕️👆🏻👉🏻 
+ ⭕️💎Show Group Owners List ⭕️💎 
 
 
 🔥🌟👉🏻modlist🔥 
- 🌈⭕️👆🏻👉🏻Show Group Moderators List 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Group Moderators List ⭕️💎
 
 
 🔥🌟👉🏻whitelist🔥 
- 🌈⭕️👆🏻👉🏻Show Group White List Users 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Group White List Users ⭕️💎
 
 
 🔥🌟👉🏻rules🔥
- 🌈⭕️👆🏻👉🏻Show Group Rules 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Group Rules ⭕️💎
 
 
 🔥🌟👉🏻about🔥
- 🌈⭕️👆🏻👉🏻Show Group Description 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Group Description ⭕️💎
 
 
 🔥🌟👉🏻id🔥
- 🌈⭕️👆🏻👉🏻Show Your And Chat ID🆔 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Your And Chat ID🆔 ⭕️💎
 
 
 🔥🌟👉🏻gpinfo🔥
- 🌈⭕️👆🏻👉🏻Show Group Information 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Group Information ⭕️💎
 
 
 🔥🌟👉🏻newlink🔥
- 🌈⭕️👆🏻👉🏻Create A New Link 🌈⭕️👆🏻👉🏻
+ ⭕️💎Create A New Link ⭕️💎
 
 
 🔥🌟👉🏻link🔥
- 🌈⭕️👆🏻👉🏻Show Group Link 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Group Link ⭕️💎
 
 
 🔥🌟👉🏻linkpv🔥
- 🌈⭕️👆🏻👉🏻Send Group Link In Your Private Message 🌈⭕️👆🏻👉🏻
+ ⭕️💎Send Group Link In Your Private Message ⭕️💎
 
 
 🔥🌟👉🏻setwelcome [text]🔥
- 🌈⭕️👆🏻👉🏻set Welcome Message 🌈⭕️👆🏻👉🏻
+ ⭕️💎set Welcome Message ⭕️💎
 
 
 🔥🌟👉🏻setlang [fa | en]🔥
- 🌈⭕️👆🏻👉🏻Set Persian/English Language 🌈⭕️👆🏻👉🏻
+ ⭕️💎Set Persian/English Language ⭕️💎
 
 
 🔥🌟👉🏻setcmd [fa | en]🔥
- 🌈⭕️👆🏻👉🏻Set CMD Persian/English Language 🌈⭕️👆🏻👉🏻
+ ⭕️💎Set CMD Persian/English Language ⭕️💎
 
 
 🔥🌟👉🏻helptools🔥
- 🌈⭕️👆🏻👉🏻Show Tools Help 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Tools Help ⭕️💎
 
 
 🔥🌟👉🏻helpfun🔥
- 🌈⭕️👆🏻👉🏻Show Fun Help 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Fun Help ⭕️💎
 
 _You Can Use_ *[!/#]* _To Run The Commands_
 _This Help List Only For_ *Moderators/Owners!*
@@ -3629,59 +3629,59 @@ text = [[
 _🔥🍀دستورات ربات ساسان🍀:🔥_
 
 🔥🌟👉🏻setowner🔥 `[username|id|reply]`
- 🌈⭕️👆🏻👉🏻انتخاب مالک گروه(قابل انتخاب چند مالک) 🌈⭕️👆🏻👉🏻
+ ⭕️💎انتخاب مالک گروه(قابل انتخاب چند مالک) ⭕️💎
 
 
 🔥🌟👉🏻remowner🔥 `[username|id|reply]`
- 🌈⭕️👆🏻👉🏻حذف کردن فرد از فهرست مالکان گروه 🌈⭕️👆🏻👉🏻
+ ⭕️💎حذف کردن فرد از فهرست مالکان گروه ⭕️💎
 
 
 🔥🌟👉🏻promote🔥 `[username|id|reply]`
- 🌈⭕️👆🏻👉🏻ارتقا مقام کاربر به مدیر گروه 🌈⭕️👆🏻👉🏻
+ ⭕️💎ارتقا مقام کاربر به مدیر گروه ⭕️💎
 
 
 🔥🌟👉🏻demote🔥 `[username|id|reply]`
- 🌈⭕️👆🏻👉🏻تنزیل مقام مدیر به کاربر 🌈⭕️👆🏻👉🏻
+ ⭕️💎تنزیل مقام مدیر به کاربر ⭕️💎
 
 
 🔥🌟👉🏻setflood🔥 `[1-50]`
- 🌈⭕️👆🏻👉🏻تنظیم حداکثر تعداد پیام مکرر 🌈⭕️👆🏻👉🏻
+ ⭕️💎تنظیم حداکثر تعداد پیام مکرر ⭕️💎
 
 
 🔥🌟👉🏻setchar🔥 `[Number]`
- 🌈⭕️👆🏻👉🏻تنظیم حداکثر کاراکتر پیام مکرر 🌈⭕️👆🏻👉🏻
+ ⭕️💎تنظیم حداکثر کاراکتر پیام مکرر ⭕️💎
 
 
 🔥🌟👉🏻setfloodtime🔥 `[1-10]`
- 🌈⭕️👆🏻👉🏻تنظیم زمان ارسال پیام مکرر 🌈⭕️👆🏻👉🏻
+ ⭕️💎تنظیم زمان ارسال پیام مکرر ⭕️💎
 
 
 🔥🌟👉🏻silent🔥 `[username|id|reply]`
- 🌈⭕️👆🏻👉🏻بیصدا کردن کاربر در گروه 🌈⭕️👆🏻👉🏻
+ ⭕️💎بیصدا کردن کاربر در گروه ⭕️💎
 
 
 🔥🌟👉🏻unsilent🔥 `[username|id|reply]`
- 🌈⭕️👆🏻👉🏻در آوردن کاربر از حالت بیصدا در گروه 🌈⭕️👆🏻👉🏻
+ ⭕️💎در آوردن کاربر از حالت بیصدا در گروه ⭕️💎
 
 
 🔥🌟👉🏻kick🔥 `[username|id|reply]`
- 🌈⭕️👆🏻👉🏻حذف کاربر از گروه 🌈⭕️👆🏻👉🏻
+ ⭕️💎حذف کاربر از گروه ⭕️💎
 
 
 🔥🌟👉🏻ban🔥 `[username|id|reply]`
- 🌈⭕️👆🏻👉🏻مسدود کردن کاربر از گروه 🌈⭕️👆🏻👉🏻
+ ⭕️💎مسدود کردن کاربر از گروه ⭕️💎
 
 
 🔥🌟👉🏻unban🔥 `[username|id|reply]`
- 🌈⭕️👆🏻👉🏻در آوردن از حالت مسدودیت کاربر از گروه 🌈⭕️👆🏻👉🏻
+ ⭕️💎در آوردن از حالت مسدودیت کاربر از گروه ⭕️💎
 
 
 🔥🌟👉🏻whitelist🔥 `[+|-]` `[یوزرنیم|ایدی|ریپلی]` 
- 🌈⭕️👆🏻👉🏻افزودن افراد به لیست سفید 🌈⭕️👆🏻👉🏻
+ ⭕️💎افزودن افراد به لیست سفید ⭕️💎
 
 
 🔥🌟👉🏻res🔥 `[username]`
- 🌈⭕️👆🏻👉🏻نمایش شناسه کاربر 🌈⭕️👆🏻👉🏻
+ ⭕️💎نمایش شناسه کاربر ⭕️💎
 
 
 🔥🌟👉🏻id🔥 `[reply]`
@@ -3689,43 +3689,43 @@ _🔥🍀دستورات ربات ساسان🍀:🔥_
 
 
 🔥🌟👉🏻whois🔥 `[id]`
- 🌈⭕️👆🏻👉🏻نمایش نام کاربر, نام کاربری و اطلاعات حساب 🌈⭕️👆🏻👉🏻
+ ⭕️💎نمایش نام کاربر, نام کاربری و اطلاعات حساب ⭕️💎
 
 
 🔥🌟👉🏻lock🔥 `[link | tag | edit | arabic | webpage | bots | spam | flood | markdown | mention | pin]`
- 🌈⭕️👆🏻👉🏻در صورت قفل بودن فعالیت ها, ربات آنهارا حذف خواهد کرد 🌈⭕️👆🏻👉🏻
+ ⭕️💎در صورت قفل بودن فعالیت ها, ربات آنهارا حذف خواهد کرد ⭕️💎
 
 
 🔥🌟👉🏻unlock🔥 `[link | tag | edit | arabic | webpage | bots | spam | flood | markdown | mention | pin]`
- 🌈⭕️👆🏻👉🏻در صورت قفل نبودن فعالیت ها, ربات آنهارا حذف نخواهد کرد 🌈⭕️👆🏻👉🏻
+ ⭕️💎در صورت قفل نبودن فعالیت ها, ربات آنهارا حذف نخواهد کرد ⭕️💎
 
 
 🔥🌟👉🏻mute🔥 `[gif | photo | document | sticker | keyboard | video | text | forward | location | audio | voice | contact | all]`
- 🌈⭕️👆🏻👉🏻در صورت بیصدد بودن فعالیت ها, ربات آنهارا حذف خواهد کرد 🌈⭕️👆🏻👉🏻
+ ⭕️💎در صورت بیصدد بودن فعالیت ها, ربات آنهارا حذف خواهد کرد ⭕️💎
 
 
 🔥🌟👉🏻unmute🔥 `[gif | photo | document | sticker | keyboard | video | text | forward | location | audio | voice | contact | all]`
- 🌈⭕️👆🏻👉🏻در صورت بیصدا نبودن فعالیت ها, ربات آنهارا حذف نخواهد کرد 🌈⭕️👆🏻👉🏻
+ ⭕️💎در صورت بیصدا نبودن فعالیت ها, ربات آنهارا حذف نخواهد کرد ⭕️💎
 
 
 🔥🌟👉🏻set🔥`[rules | name | photo | link | about | welcome]`
- 🌈⭕️👆🏻👉🏻ربات آنهارا ثبت خواهد کرد 🌈⭕️👆🏻👉🏻
+ ⭕️💎ربات آنهارا ثبت خواهد کرد ⭕️💎
 
 
 🔥🌟👉🏻clean🔥 `[bans | mods | rules | about | silentlist | filterlist | welcome]`
- 🌈⭕️👆🏻👉🏻ربات آنهارا پاک خواهد کرد 🌈⭕️👆🏻👉🏻
+ ⭕️💎ربات آنهارا پاک خواهد کرد ⭕️💎
 
 
 🔥🌟👉🏻filter🔥 `[word]`
- 🌈⭕️👆🏻👉🏻فیلتر‌کلمه مورد نظر 🌈⭕️👆🏻👉🏻
+ ⭕️💎فیلتر‌کلمه مورد نظر ⭕️💎
 
 
 🔥🌟👉🏻unfilter🔥 `[word]`
- 🌈⭕️👆🏻👉🏻ازاد کردن کلمه مورد نظر 🌈⭕️👆🏻👉🏻
+ ⭕️💎ازاد کردن کلمه مورد نظر ⭕️💎
 
 
 🔥🌟👉🏻pin🔥 `[reply]`
- 🌈⭕️👆🏻👉🏻ربات پیام شمارا در گروه سنجاق خواهد کرد 🌈⭕️👆🏻👉🏻
+ ⭕️💎ربات پیام شمارا در گروه سنجاق خواهد کرد ⭕️💎
 
 
 🔥🌟👉🏻unpin 🔥
@@ -3733,91 +3733,91 @@ _🔥🍀دستورات ربات ساسان🍀:🔥_
 
 
 🔥🌟👉🏻welcome🔥 `enable/disable`
- 🌈⭕️👆🏻👉🏻فعال یا غیرفعال کردن خوشامد گویی 🌈⭕️👆🏻👉🏻
+ ⭕️💎فعال یا غیرفعال کردن خوشامد گویی ⭕️💎
 
 
 🔥🌟👉🏻settings🔥
- 🌈⭕️👆🏻👉🏻نمایش تنظیمات گروه 🌈⭕️👆🏻👉🏻
+ ⭕️💎نمایش تنظیمات گروه ⭕️💎
 
 
 🔥🌟👉🏻mutelist🔥
- 🌈⭕️👆🏻👉🏻نمایش فهرست بیصدا های گروه 🌈⭕️👆🏻👉🏻
+ ⭕️💎نمایش فهرست بیصدا های گروه ⭕️💎
 
 
 🔥🌟👉🏻silentlist🔥
- 🌈⭕️👆🏻👉🏻نمایش فهرست افراد بیصدا 🌈⭕️👆🏻👉🏻
+ ⭕️💎نمایش فهرست افراد بیصدا ⭕️💎
 
 
 🔥🌟👉🏻filterlist🔥
- 🌈⭕️👆🏻👉🏻نمایش لیست کلمات فیلتر شده 🌈⭕️👆🏻👉🏻
+ ⭕️💎نمایش لیست کلمات فیلتر شده ⭕️💎
 
 
 🔥🌟👉🏻banlist🔥
- 🌈⭕️👆🏻👉🏻نمایش افراد مسدود شده از گروه 🌈⭕️👆🏻👉🏻
+ ⭕️💎نمایش افراد مسدود شده از گروه ⭕️💎
 
 
 🔥🌟👉🏻ownerlist🔥
- 🌈⭕️👆🏻👉🏻نمایش فهرست مالکان گروه 🌈⭕️👆🏻👉🏻
+ ⭕️💎نمایش فهرست مالکان گروه ⭕️💎
 
 
 🔥🌟👉🏻modlist🔥
- 🌈⭕️👆🏻👉🏻نمایش فهرست مدیران گروه 🌈⭕️👆🏻👉🏻
+ ⭕️💎نمایش فهرست مدیران گروه ⭕️💎
 
 
 🔥🌟👉🏻whitelist🔥
- 🌈⭕️👆🏻👉🏻نمایش افراد سفید شده از گروه 🌈⭕️👆🏻👉🏻
+ ⭕️💎نمایش افراد سفید شده از گروه ⭕️💎
 
 
 🔥🌟👉🏻rules🔥
- 🌈⭕️👆🏻👉🏻نمایش قوانین گروه 🌈⭕️👆🏻👉🏻
+ ⭕️💎نمایش قوانین گروه ⭕️💎
 
 
 🔥🌟👉🏻about🔥
- 🌈⭕️👆🏻👉🏻نمایش درباره گروه 🌈⭕️👆🏻👉🏻
+ ⭕️💎نمایش درباره گروه ⭕️💎
 
 
 🔥🌟👉🏻id🔥
- 🌈⭕️👆🏻👉🏻نمایش 🆔شناسه شما و گروه 🌈⭕️👆🏻👉🏻
+ ⭕️💎نمایش 🆔شناسه شما و گروه ⭕️💎
 
 
 🔥🌟👉🏻gpinfo🔥
- 🌈⭕️👆🏻👉🏻نمایش اطلاعات گروه 🌈⭕️👆🏻👉🏻
+ ⭕️💎نمایش اطلاعات گروه ⭕️💎
 
 
 🔥🌟👉🏻newlink🔥
- 🌈⭕️👆🏻👉🏻ساخت لینک جدید 🌈⭕️👆🏻👉🏻
+ ⭕️💎ساخت لینک جدید ⭕️💎
 
 
 🔥🌟👉🏻setlink🔥
- 🌈⭕️👆🏻👉🏻تنظیم لینک جدید 🌈⭕️👆🏻👉🏻
+ ⭕️💎تنظیم لینک جدید ⭕️💎
 
 
 🔥🌟👉🏻link🔥
- 🌈⭕️👆🏻👉🏻نمایش لینک گروه 🌈⭕️👆🏻👉🏻
+ ⭕️💎نمایش لینک گروه ⭕️💎
 
 
 🔥🌟👉🏻linkpv🔥
- 🌈⭕️👆🏻👉🏻ارسال لینک گروه به چت خصوصی شما 🌈⭕️👆🏻👉🏻
+ ⭕️💎ارسال لینک گروه به چت خصوصی شما ⭕️💎
 
 
 🔥🌟👉🏻setwelcome🔥 `[text]`
- 🌈⭕️👆🏻👉🏻ثبت پیام خوش آمد گویی 🌈⭕️👆🏻👉🏻
+ ⭕️💎ثبت پیام خوش آمد گویی ⭕️💎
 
 
 🔥🌟👉🏻setlang🔥 `[fa | en]`
- 🌈⭕️👆🏻👉🏻تنظیم زبان ربات به فارسی یا انگلیسی 🌈⭕️👆🏻👉🏻
+ ⭕️💎تنظیم زبان ربات به فارسی یا انگلیسی ⭕️💎
 
 
 🔥🌟👉🏻setcmd🔥 `[fa | en]`
- 🌈⭕️👆🏻👉🏻تنظیم زبان دستورات ربات به فارسی یا انگلیسی 🌈⭕️👆🏻👉🏻
+ ⭕️💎تنظیم زبان دستورات ربات به فارسی یا انگلیسی ⭕️💎
 
 
 🔥🌟👉🏻helptools🔥
- 🌈⭕️👆🏻👉🏻نمایش راهنمای ابزار 🌈⭕️👆🏻👉🏻
+ ⭕️💎نمایش راهنمای ابزار ⭕️💎
 
 
 🔥🌟👉🏻helpfun🔥
- 🌈⭕️👆🏻👉🏻نمایش راهنمای سرگرمی 🌈⭕️👆🏻👉🏻
+ ⭕️💎نمایش راهنمای سرگرمی ⭕️💎
 
 _شما میتوانید از [!/#] در اول دستورات برای اجرای آنها بهره بگیرید_
 
@@ -3837,148 +3837,148 @@ text = [[
 *⚙️sasan bot setting⚙️:*
 
 🔥مالک🔥 `[username|id|reply]` 
- 🌈⭕️👆🏻👉🏻Set Group Owner(Multi Owner) 🌈⭕️👆🏻👉🏻
+ ⭕️💎Set Group Owner(Multi Owner) ⭕️💎
 
 🔥حذف مالک🔥 `[username|id|reply]` 
-  🌈⭕️👆🏻👉🏻Remove User From Owner List 🌈⭕️👆🏻👉🏻
+  ⭕️💎Remove User From Owner List ⭕️💎
 
 🔥مدیر🔥 `[username|id|reply]` 
- 🌈⭕️👆🏻👉🏻Promote User To Group Admin 🌈⭕️👆🏻👉🏻
+ ⭕️💎Promote User To Group Admin ⭕️💎
 
 🔥حذف مدیر🔥 `[username|id|reply]` 
- 🌈⭕️👆🏻👉🏻Demote User From Group Admins List 🌈⭕️👆🏻👉🏻
+ ⭕️💎Demote User From Group Admins List ⭕️💎
 
 🔥تنظیم پیام مکرر🔥 `[1-50]`
- 🌈⭕️👆🏻👉🏻Set Flooding Number 🌈⭕️👆🏻👉🏻
+ ⭕️💎Set Flooding Number ⭕️💎
 
 🔥حداکثر حروف مجاز🔥 `[عدد]`
- 🌈⭕️👆🏻👉🏻Set Flooding Characters 🌈⭕️👆🏻👉🏻
+ ⭕️💎Set Flooding Characters ⭕️💎
 
 🔥تنظیم زمان بررسی🔥 `[1-10]`
- 🌈⭕️👆🏻👉🏻Set Flooding Time 🌈⭕️👆🏻👉🏻
+ ⭕️💎Set Flooding Time ⭕️💎
 
 🔥سکوت🔥 `[username|id|reply]` 
- 🌈⭕️👆🏻👉🏻Silent User From Group 🌈⭕️👆🏻👉🏻
+ ⭕️💎Silent User From Group ⭕️💎
 
 🔥حذف سکوت🔥 `[username|id|reply]` 
- 🌈⭕️👆🏻👉🏻Unsilent User From Group 🌈⭕️👆🏻👉🏻
+ ⭕️💎Unsilent User From Group ⭕️💎
 
 🔥اخراج🔥 `[username|id|reply]` 
- 🌈⭕️👆🏻👉🏻Kick User From Group 🌈⭕️👆🏻👉🏻
+ ⭕️💎Kick User From Group ⭕️💎
 
 🔥بن🔥 `[username|id|reply]` 
- 🌈⭕️👆🏻👉🏻Ban User From Group 🌈⭕️👆🏻👉🏻
+ ⭕️💎Ban User From Group ⭕️💎
 
 🔥حذف بن🔥 `[username|id|reply]` 
- 🌈⭕️👆🏻👉🏻UnBan User From Group 🌈⭕️👆🏻👉🏻
+ ⭕️💎UnBan User From Group ⭕️💎
 
 🔥لیست سفید🔥 [+-] `[username|id|reply]` 
- 🌈⭕️👆🏻👉🏻Add Or Remove User From White List 🌈⭕️👆🏻👉🏻
+ ⭕️💎Add Or Remove User From White List ⭕️💎
 
 🔥کاربری🔥 `[username]`
- 🌈⭕️👆🏻👉🏻Show User ID🆔 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show User ID🆔 ⭕️💎
 
 🔥ایدی🔥 `[reply]`
- 🌈⭕️👆🏻👉🏻Show User ID🆔 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show User ID🆔 ⭕️💎
 
 🔥شناسه🔥 `[id]`
- 🌈⭕️👆🏻👉🏻Show User's Username And Name 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show User's Username And Name ⭕️💎
 
 🔥قفل🔥 `[لینک | ورود | تگ | ویرایش | عربی | وب | ربات |هرزنامه | پیام مکرر | فونت | فراخوانی | سنجاق]`
- 🌈⭕️👆🏻👉🏻If This Actions Lock, Bot Check Actions And Delete Them 🌈⭕️👆🏻👉🏻
+ ⭕️💎If This Actions Lock, Bot Check Actions And Delete Them ⭕️💎
 
 🔥باز کردن🔥 `[لینک | ورود | تگ | ویرایش | عربی | وب | ربات |هرزنامه | پیام مکرر | فونت | فراخوانی | سنجاق]`
- 🌈⭕️👆🏻👉🏻If This Actions Unlock, Bot Not Delete Them 🌈⭕️👆🏻👉🏻
+ ⭕️💎If This Actions Unlock, Bot Not Delete Them ⭕️💎
 
 🔥بیصدا🔥 `[همه | تصاویر متحرک | عکس | اسناد | برچسب | صفحه کلید | فیلم | متن | نقل قول | موقعیت | اهنگ | صدا | مخاطب | کیبورد شیشه ای|بازی|خدمات تلگرام]`
- 🌈⭕️👆🏻👉🏻If This Actions Lock, Bot Check Actions And Delete Them 🌈⭕️👆🏻👉🏻
+ ⭕️💎If This Actions Lock, Bot Check Actions And Delete Them ⭕️💎
 
 🔥باصدا🔥 `[همه | تصاویر متحرک | عکس | اسناد | برچسب | صفحه کلید | فیلم | متن | نقل قول | موقعیت | اهنگ | صدا | مخاطب | کیبورد شیشه ای|بازی|خدمات تلگرام]`
- 🌈⭕️👆🏻👉🏻If This Actions Unlock, Bot Not Delete Them 🌈⭕️👆🏻👉🏻
+ ⭕️💎If This Actions Unlock, Bot Not Delete Them ⭕️💎
 
 🔥تنظیم🔥`[قوانین | نام | لینک | درباره | خوشامد]`
- 🌈⭕️👆🏻👉🏻Bot Set Them 🌈⭕️👆🏻👉🏻
+ ⭕️💎Bot Set Them ⭕️💎
 
 🔥پاک کردن🔥 `[بن | مدیران | ربات | قوانین | درباره | لیست سکوت | خوشامد]`   
- 🌈⭕️👆🏻👉🏻Bot Clean Them 🌈⭕️👆🏻👉🏻
+ ⭕️💎Bot Clean Them ⭕️💎
 
 🔥فیلتر🔥 `[word]`
- 🌈⭕️👆🏻👉🏻Word filter 🌈⭕️👆🏻👉🏻
+ ⭕️💎Word filter ⭕️💎
 
 🔥حذف فیلتر🔥 `[word]`
- 🌈⭕️👆🏻👉🏻Word unfilter 🌈⭕️👆🏻👉🏻
+ ⭕️💎Word unfilter ⭕️💎
 
 🔥سنجاق🔥 `[reply]`
- 🌈⭕️👆🏻👉🏻Pin Your Message 🌈⭕️👆🏻👉🏻
+ ⭕️💎Pin Your Message ⭕️💎
 
 🔥حذف سنجاق🔥 
- 🌈⭕️👆🏻👉🏻Unpin Pinned Message 🌈⭕️👆🏻👉🏻
+ ⭕️💎Unpin Pinned Message ⭕️💎
 
 🔥خوشامد فعال/غیرفعال🔥
- 🌈⭕️👆🏻👉🏻Enable Or Disable Group Welcome 🌈⭕️👆🏻👉🏻
+ ⭕️💎Enable Or Disable Group Welcome ⭕️💎
 
 🔥تنظیمات🔥
- 🌈⭕️👆🏻👉🏻Show Group Settings 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Group Settings ⭕️💎
 
 🔥لیست بیصدا🔥
- 🌈⭕️👆🏻👉🏻Show Mutes List 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Mutes List ⭕️💎
 
 🔥لیست سکوت🔥
- 🌈⭕️👆🏻👉🏻Show Silented Users List 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Silented Users List ⭕️💎
 
 🔥لیست فیلتر🔥
- 🌈⭕️👆🏻👉🏻Show Filtered Words List 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Filtered Words List ⭕️💎
 
 🔥لیست بن🔥
- 🌈⭕️👆🏻👉🏻Show Banned Users List 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Banned Users List ⭕️💎
 
 🔥لیست مالکان🔥
- 🌈⭕️👆🏻👉🏻Show Group Owners List 🌈⭕️👆🏻👉🏻 
+ ⭕️💎Show Group Owners List ⭕️💎 
 
 🔥لیست مدیران🔥 
- 🌈⭕️👆🏻👉🏻Show Group Moderators List 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Group Moderators List ⭕️💎
 
 🔥لیست سفید🔥 
- 🌈⭕️👆🏻👉🏻Show Group White List Users 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Group White List Users ⭕️💎
 
 🔥قوانین🔥
- 🌈⭕️👆🏻👉🏻Show Group Rules 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Group Rules ⭕️💎
 
 🔥درباره🔥
- 🌈⭕️👆🏻👉🏻Show Group Description 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Group Description ⭕️💎
 
 🔥ایدی🔥
- 🌈⭕️👆🏻👉🏻Show Your And Chat ID🆔 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Your And Chat ID🆔 ⭕️💎
 
 🔥اطلاعات گروه🔥
- 🌈⭕️👆🏻👉🏻Show Group Information 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Group Information ⭕️💎
 
 🔥لینک جدید🔥
- 🌈⭕️👆🏻👉🏻Create A New Link 🌈⭕️👆🏻👉🏻
+ ⭕️💎Create A New Link ⭕️💎
 
 🔥تنظیم لینک🔥
- 🌈⭕️👆🏻👉🏻Set A New Link 🌈⭕️👆🏻👉🏻
+ ⭕️💎Set A New Link ⭕️💎
 
 🔥لینک🔥
- 🌈⭕️👆🏻👉🏻Show Group Link 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Group Link ⭕️💎
 
 🔥لینک خصوصی🔥
- 🌈⭕️👆🏻👉🏻Send Group Link In Your Private Message 🌈⭕️👆🏻👉🏻
+ ⭕️💎Send Group Link In Your Private Message ⭕️💎
 
 🔥تنظیم خوشامد [text]🔥
- 🌈⭕️👆🏻👉🏻set Welcome Message 🌈⭕️👆🏻👉🏻
+ ⭕️💎set Welcome Message ⭕️💎
 
 🔥زبان [فارسی | انگلیسی]🔥
- 🌈⭕️👆🏻👉🏻Set Persian/English Language 🌈⭕️👆🏻👉🏻
+ ⭕️💎Set Persian/English Language ⭕️💎
 
 🔥دستورات [فارسی | انگلیسی]🔥
- 🌈⭕️👆🏻👉🏻Set CMD Persian/English Language 🌈⭕️👆🏻👉🏻
+ ⭕️💎Set CMD Persian/English Language ⭕️💎
 
 🔥راهنمای ابزار🔥
- 🌈⭕️👆🏻👉🏻Show Tools Help 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Tools Help ⭕️💎
 
 🔥راهنمای سرگرمی🔥
- 🌈⭕️👆🏻👉🏻Show Fun Help 🌈⭕️👆🏻👉🏻
+ ⭕️💎Show Fun Help ⭕️💎
 
 _This Help List Only For_ *Moderators/Owners!*
 _Its Means, Only Group_ *Moderators/Owners* _Can Use It!_
@@ -3992,203 +3992,203 @@ text = [[
 
 
 🔥مالک🔥 `[یوزرنیم|ایدی|ریپلی]` 
-  🌈⭕️👆🏻👉🏻انتخاب مالک گروه(قابل انتخاب چند مالک)  🌈⭕️👆🏻👉🏻
+  ⭕️💎انتخاب مالک گروه(قابل انتخاب چند مالک)  ⭕️💎
 
 
 🔥حذف مالک🔥 `[یوزرنیم|ایدی|ریپلی]` 
-   🌈⭕️👆🏻👉🏻حذف کردن فرد از فهرست مالکان گروه  🌈⭕️👆🏻👉🏻
+   ⭕️💎حذف کردن فرد از فهرست مالکان گروه  ⭕️💎
 
  
 🔥مدیر🔥 `[یوزرنیم|ایدی|ریپلی]` 
-  🌈⭕️👆🏻👉🏻ارتقا مقام کاربر به مدیر گروه  🌈⭕️👆🏻👉🏻
+  ⭕️💎ارتقا مقام کاربر به مدیر گروه  ⭕️💎
 
 
 🔥حذف مدیر🔥 `[یوزرنیم|ایدی|ریپلی]` 
-  🌈⭕️👆🏻👉🏻تنزیل مقام مدیر به کاربر  🌈⭕️👆🏻👉🏻
+  ⭕️💎تنزیل مقام مدیر به کاربر  ⭕️💎
 
 
 🔥تنظیم پیام مکرر🔥 `[2-50]`
-  🌈⭕️👆🏻👉🏻تنظیم حداکثر تعداد پیام مکرر  🌈⭕️👆🏻👉🏻
+  ⭕️💎تنظیم حداکثر تعداد پیام مکرر  ⭕️💎
 
 
 🔥حداکثر حروف مجاز🔥 `[عدد]`
-  🌈⭕️👆🏻👉🏻تنظیم حداکثر کاراکتر پیام مکرر  🌈⭕️👆🏻👉🏻
+  ⭕️💎تنظیم حداکثر کاراکتر پیام مکرر  ⭕️💎
 
 
 🔥تنظیم زمان بررسی🔥 `[1-10]`
-  🌈⭕️👆🏻👉🏻تنظیم زمان ارسال پیام مکرر  🌈⭕️👆🏻👉🏻
+  ⭕️💎تنظیم زمان ارسال پیام مکرر  ⭕️💎
 
 
 🔥سکوت🔥 `[یوزرنیم|ایدی|ریپلی]` 
-  🌈⭕️👆🏻👉🏻بیصدا کردن کاربر در گروه  🌈⭕️👆🏻👉🏻
+  ⭕️💎بیصدا کردن کاربر در گروه  ⭕️💎
 
 
 🔥حذف سکوت🔥 `[یوزرنیم|ایدی|ریپلی]` 
-  🌈⭕️👆🏻👉🏻در آوردن کاربر از حالت بیصدا در گروه  🌈⭕️👆🏻👉🏻
+  ⭕️💎در آوردن کاربر از حالت بیصدا در گروه  ⭕️💎
 
 
 🔥اخراج🔥 `[یوزرنیم|ایدی|ریپلی]` 
-  🌈⭕️👆🏻👉🏻حذف کاربر از گروه  🌈⭕️👆🏻👉🏻
+  ⭕️💎حذف کاربر از گروه  ⭕️💎
 
 
 🔥بن🔥 `[یوزرنیم|ایدی|ریپلی]` 
-  🌈⭕️👆🏻👉🏻مسدود کردن کاربر از گروه  🌈⭕️👆🏻👉🏻
+  ⭕️💎مسدود کردن کاربر از گروه  ⭕️💎
 
 
 🔥حذف بن🔥 `[یوزرنیم|ایدی|ریپلی]` 
-  🌈⭕️👆🏻👉🏻در آوردن از حالت مسدودیت کاربر از گروه  🌈⭕️👆🏻👉🏻
+  ⭕️💎در آوردن از حالت مسدودیت کاربر از گروه  ⭕️💎
 
 
 🔥کاربری🔥 `[یوزرنیم]`
-  🌈⭕️👆🏻👉🏻نمایش شناسه کاربر  🌈⭕️👆🏻👉🏻
+  ⭕️💎نمایش شناسه کاربر  ⭕️💎
 
 
 🔥ایدی🔥 `[ریپلی]`
-  🌈⭕️👆🏻👉🏻نمایش شناسه کاربر  🌈⭕️👆🏻👉🏻
+  ⭕️💎نمایش شناسه کاربر  ⭕️💎
 
 
 🔥شناسه🔥 `[ایدی]`
-  🌈⭕️👆🏻👉🏻نمایش نام کاربر, نام کاربری و اطلاعات حساب  🌈⭕️👆🏻👉🏻
+  ⭕️💎نمایش نام کاربر, نام کاربری و اطلاعات حساب  ⭕️💎
 
 
 🔥قفل🔥 `[لینک | ورود | تگ | ویرایش | عربی | وب | ربات |هرزنامه | پیام مکرر | فونت | فراخوانی | سنجاق]`
-  🌈⭕️👆🏻👉🏻در صورت قفل بودن فعالیت ها, ربات آنهارا حذف خواهد کرد  🌈⭕️👆🏻👉🏻
+  ⭕️💎در صورت قفل بودن فعالیت ها, ربات آنهارا حذف خواهد کرد  ⭕️💎
 
 
 🔥باز کردن🔥 `[لینک | ورود | تگ | ویرایش | عربی | وب | ربات |هرزنامه | پیام مکرر | فونت | فراخوانی | سنجاق]`
-  🌈⭕️👆🏻👉🏻در صورت قفل نبودن فعالیت ها, ربات آنهارا حذف نخواهد کرد  🌈⭕️👆🏻👉🏻
+  ⭕️💎در صورت قفل نبودن فعالیت ها, ربات آنهارا حذف نخواهد کرد  ⭕️💎
 
 
 🔥بیصدا🔥 `[همه | تصاویر متحرک | عکس | اسناد | برچسب | صفحه کلید | فیلم | متن | نقل قول | موقعیت | اهنگ | صدا | مخاطب | کیبورد شیشه ای|بازی|خدمات تلگرام]`
-  🌈⭕️👆🏻👉🏻در صورت بیصدا بودن فعالیت ها, ربات آنهارا حذف خواهد کرد  🌈⭕️👆🏻👉🏻
+  ⭕️💎در صورت بیصدا بودن فعالیت ها, ربات آنهارا حذف خواهد کرد  ⭕️💎
 
 
 🔥باصدا🔥 `[همه | تصاویر متحرک | عکس | اسناد | برچسب | صفحه کلید | فیلم | متن | نقل قول | موقعیت | اهنگ | صدا | مخاطب | کیبورد شیشه ای|بازی|خدمات تلگرام]`
-  🌈⭕️👆🏻👉🏻در صورت بیصدا نبودن فعالیت ها, ربات آنهارا حذف نخواهد کرد  🌈⭕️👆🏻👉🏻
+  ⭕️💎در صورت بیصدا نبودن فعالیت ها, ربات آنهارا حذف نخواهد کرد  ⭕️💎
 
 
 🔥تنظیم🔥`[قوانین | نام | لینک | درباره | خوشامد]`
-  🌈⭕️👆🏻👉🏻ربات آنهارا ثبت خواهد کرد  🌈⭕️👆🏻👉🏻
+  ⭕️💎ربات آنهارا ثبت خواهد کرد  ⭕️💎
 
 
 🔥پاک کردن🔥 `[بن | مدیران | ربات | قوانین | درباره | لیست سکوت | خوشامد]`   
-  🌈⭕️👆🏻👉🏻ربات آنهارا پاک خواهد کرد  🌈⭕️👆🏻👉🏻
+  ⭕️💎ربات آنهارا پاک خواهد کرد  ⭕️💎
 
 
 🔥لیست سفید🔥 `[+|-]` `[یوزرنیم|ایدی|ریپلی]` 
-  🌈⭕️👆🏻👉🏻افزودن افراد به لیست سفید  🌈⭕️👆🏻👉🏻
+  ⭕️💎افزودن افراد به لیست سفید  ⭕️💎
 
 
 🔥فیلتر🔥 `[کلمه]`
-  🌈⭕️👆🏻👉🏻فیلتر‌کلمه مورد نظر  🌈⭕️👆🏻👉🏻
+  ⭕️💎فیلتر‌کلمه مورد نظر  ⭕️💎
 
 
 🔥حذف فیلتر🔥 `[کلمه]`
-  🌈⭕️👆🏻👉🏻ازاد کردن کلمه مورد نظر  🌈⭕️👆🏻👉🏻
+  ⭕️💎ازاد کردن کلمه مورد نظر  ⭕️💎
 
 
 🔥سنجاق🔥 `[reply]`
-  🌈⭕️👆🏻👉🏻ربات پیام شمارا در گروه سنجاق خواهد کرد  🌈⭕️👆🏻👉🏻
+  ⭕️💎ربات پیام شمارا در گروه سنجاق خواهد کرد  ⭕️💎
 
 
 🔥حذف سنجاق🔥 
-  🌈⭕️👆🏻👉🏻ربات پیام سنجاق شده در گروه را حذف خواهد کرد  🌈⭕️👆🏻👉🏻
+  ⭕️💎ربات پیام سنجاق شده در گروه را حذف خواهد کرد  ⭕️💎
 
 
 🔥!خوشامد فعال/غیرفعال🔥
-  🌈⭕️👆🏻👉🏻فعال یا غیرفعال کردن خوشامد گویی  🌈⭕️👆🏻👉🏻
+  ⭕️💎فعال یا غیرفعال کردن خوشامد گویی  ⭕️💎
 
 
 🔥تنظیمات🔥
-  🌈⭕️👆🏻👉🏻نمایش تنظیمات گروه  🌈⭕️👆🏻👉🏻
+  ⭕️💎نمایش تنظیمات گروه  ⭕️💎
 
 
 🔥لیست بیصدا🔥
-  🌈⭕️👆🏻👉🏻نمایش فهرست بیصدا های گروه  🌈⭕️👆🏻👉🏻
+  ⭕️💎نمایش فهرست بیصدا های گروه  ⭕️💎
 
 
 🔥لیست سکوت🔥
-  🌈⭕️👆🏻👉🏻نمایش فهرست افراد بیصدا  🌈⭕️👆🏻👉🏻
+  ⭕️💎نمایش فهرست افراد بیصدا  ⭕️💎
 
 
 🔥لیست فیلتر🔥
-  🌈⭕️👆🏻👉🏻نمایش لیست کلمات فیلتر شده  🌈⭕️👆🏻👉🏻
+  ⭕️💎نمایش لیست کلمات فیلتر شده  ⭕️💎
 
 
 🔥لیست سفید🔥
-  🌈⭕️👆🏻👉🏻نمایش افراد سفید شده از گروه  🌈⭕️👆🏻👉🏻
+  ⭕️💎نمایش افراد سفید شده از گروه  ⭕️💎
 
 
 🔥لیست بن🔥
-  🌈⭕️👆🏻👉🏻نمایش افراد مسدود شده از گروه  🌈⭕️👆🏻👉🏻
+  ⭕️💎نمایش افراد مسدود شده از گروه  ⭕️💎
 
 
 🔥لیست مالکان🔥
-  🌈⭕️👆🏻👉🏻نمایش فهرست مالکان گروه  🌈⭕️👆🏻👉🏻 
+  ⭕️💎نمایش فهرست مالکان گروه  ⭕️💎 
 
 
 🔥لیست مدیران🔥 
-  🌈⭕️👆🏻👉🏻نمایش فهرست مدیران گروه  🌈⭕️👆🏻👉🏻
+  ⭕️💎نمایش فهرست مدیران گروه  ⭕️💎
 
 
 🔥قوانین🔥
-  🌈⭕️👆🏻👉🏻نمایش قوانین گروه  🌈⭕️👆🏻👉🏻
+  ⭕️💎نمایش قوانین گروه  ⭕️💎
 
 
 🔥درباره🔥
-  🌈⭕️👆🏻👉🏻نمایش درباره گروه  🌈⭕️👆🏻👉🏻
+  ⭕️💎نمایش درباره گروه  ⭕️💎
 
 
 🔥ایدی🔥
-  🌈⭕️👆🏻👉🏻نمایش 🆔شناسه شما و گروه  🌈⭕️👆🏻👉🏻
+  ⭕️💎نمایش 🆔شناسه شما و گروه  ⭕️💎
 
 
 🔥اطلاعات گروه🔥
-  🌈⭕️👆🏻👉🏻نمایش اطلاعات گروه  🌈⭕️👆🏻👉🏻
+  ⭕️💎نمایش اطلاعات گروه  ⭕️💎
 
 
 🔥لینک جدید🔥
-  🌈⭕️👆🏻👉🏻ساخت لینک جدید  🌈⭕️👆🏻👉🏻
+  ⭕️💎ساخت لینک جدید  ⭕️💎
 
 
 🔥لینک🔥
-  🌈⭕️👆🏻👉🏻نمایش لینک گروه  🌈⭕️👆🏻👉🏻
+  ⭕️💎نمایش لینک گروه  ⭕️💎
 
 
 🔥تنظیم لینک🔥
-  🌈⭕️👆🏻👉🏻تنظیم لینک جدید برای گروه  🌈⭕️👆🏻👉🏻
+  ⭕️💎تنظیم لینک جدید برای گروه  ⭕️💎
 
 
 🔥لینک خصوصی🔥
-  🌈⭕️👆🏻👉🏻ارسال لینک گروه به چت خصوصی شما  🌈⭕️👆🏻👉🏻
+  ⭕️💎ارسال لینک گروه به چت خصوصی شما  ⭕️💎
 
 
 🔥زبان انگلیسی🔥
-  🌈⭕️👆🏻👉🏻تنظیم زبان انگلیسی  🌈⭕️👆🏻👉🏻
+  ⭕️💎تنظیم زبان انگلیسی  ⭕️💎
 
 
 🔥زبان فارسی🔥
-  🌈⭕️👆🏻👉🏻تنظیم زبان فارسی  🌈⭕️👆🏻👉🏻
+  ⭕️💎تنظیم زبان فارسی  ⭕️💎
 
 
 🔥دستورات انگلیسی🔥
-  🌈⭕️👆🏻👉🏻تنظیم دستورات انگلیسی  🌈⭕️👆🏻👉🏻
+  ⭕️💎تنظیم دستورات انگلیسی  ⭕️💎
 
 
 🔥دستورات فارسی🔥
-  🌈⭕️👆🏻👉🏻تنظیم دستورات فارسی  🌈⭕️👆🏻👉🏻
+  ⭕️💎تنظیم دستورات فارسی  ⭕️💎
 
 
 🔥تنظیم خوشامد [متن]🔥
-  🌈⭕️👆🏻👉🏻ثبت پیام خوش آمد گویی  🌈⭕️👆🏻👉🏻
+  ⭕️💎ثبت پیام خوش آمد گویی  ⭕️💎
 
 
 🔥راهنمای ابزار🔥
-  🌈⭕️👆🏻👉🏻نمایش راهنمای ابزار  🌈⭕️👆🏻👉🏻
+  ⭕️💎نمایش راهنمای ابزار  ⭕️💎
 
 
 🔥راهنمای سرگرمی🔥
-  🌈⭕️👆🏻👉🏻نمایش راهنمای سرگرمی  🌈⭕️👆🏻👉🏻
+  ⭕️💎نمایش راهنمای سرگرمی  ⭕️💎
 
 _این راهنما فقط برای مدیران/مالکان گروه میباشد!
 این به این معناست که فقط مدیران/مالکان گروه میتوانند از دستورات بالا استفاده کنند!_
