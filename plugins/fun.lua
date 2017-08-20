@@ -316,87 +316,111 @@ if not lang then
 helpfun_en = [[
 _sasan Reborn Fun Help Commands:_
 
-*🕹🎮🌈💥time*
+💎🕹🎮🌈💥time💎
 🌟❄️☝🏻👉🏻Get time in a sticker🌟❄️☝🏻👉🏻
 
-*🕹🎮🌈💥short* `[link]`
+
+💎🕹🎮🌈💥short💎 `[link]`
 🌟❄️☝🏻👉🏻Make short url🌟❄️☝🏻👉🏻
 
-*🕹🎮🌈💥voice* `[text]`
+
+💎🕹🎮🌈💥voice💎 `[text]`
 🌟❄️☝🏻👉🏻Convert text to voice🌟❄️☝🏻👉🏻
 
-*🕹🎮🌈💥tr* `[lang] [word]`
+
+💎🕹🎮🌈💥tr💎 `[lang] [word]`
 🌟❄️☝🏻👉🏻Translates FA to EN and EN to FA🌟❄️☝🏻👉🏻
 🌟❄️☝🏻👉🏻Example:🌟❄️☝🏻👉🏻
-*🕹🎮🌈💥tr fa hi*
+💎🕹🎮🌈💥tr fa hi💎
 
-*🕹🎮🌈💥sticker* `[word]`
+
+💎🕹🎮🌈💥sticker💎 `[word]`
 🌟❄️☝🏻👉🏻Convert text to sticker🌟❄️☝🏻👉🏻
 
-*🕹🎮🌈💥photo* `[word]`
+
+💎🕹🎮🌈💥photo💎 `[word]`
 🌟❄️☝🏻👉🏻Convert text to photo🌟❄️☝🏻👉🏻
 
-*🕹🎮🌈💥calc* `[number]`
+
+💎🕹🎮🌈💥calc💎 `[number]`
 Calculator
 
-*🕹🎮🌈💥praytime* `[city]`
+
+💎🕹🎮🌈💥praytime💎 `[city]`
 🌟❄️☝🏻👉🏻Get Patent (Pray Time)🌟❄️☝🏻👉🏻
 
-*🕹🎮🌈💥tosticker* `[reply]`
+
+💎🕹🎮🌈💥tosticker💎 `[reply]`
 🌟❄️☝🏻👉🏻Convert photo to sticker🌟❄️☝🏻👉🏻
 
-*🕹🎮🌈💥tophoto* `[reply]`
+
+💎🕹🎮🌈💥tophoto💎 `[reply]`
 🌟❄️☝🏻👉🏻Convert text to photo🌟❄️☝🏻👉🏻
 
-*🕹🎮🌈💥weather* `[city]`
+
+💎🕹🎮🌈💥weather💎 `[city]`
 🌟❄️☝🏻👉🏻Get weather🌟❄️☝🏻👉🏻
 
-🌟❄️☝🏻👉🏻You can use🌟❄️☝🏻👉🏻 *[!/#]* 🌟❄️☝🏻👉🏻at the beginning of commands.🌟❄️☝🏻👉🏻
 
-*Good luck ;)*]]
+🌟❄️☝🏻👉🏻You can use🌟❄️☝🏻👉🏻 💎[!/#]💎 🌟❄️☝🏻👉🏻at the beginning of commands.🌟❄️☝🏻👉🏻
+
+🌼شما میتوانید از دستورات استقاده کنید🌼 ;)*]]
 else
 
 helpfun_en = [[
-🌟❄️☝🏻👉🏻راهنمای فان ربات بیوند:🌟❄️☝🏻👉🏻
+🌟🌟❄️☝🏻👉🏻⚙️راهنمای فان ربات ساسان⚙️چ:🌟❄️☝🏻👉🏻
+
 
 *🕹🎮🌈💥time*
 🌟❄️☝🏻👉🏻دریافت ساعت به صورت استیکر🌟❄️☝🏻👉🏻
 
+
 *🕹🎮🌈💥short* `[link]`
 🌟❄️☝🏻👉🏻کوتاه کننده لینک🌟❄️☝🏻👉🏻
 
+
 *🕹🎮🌈💥voice* `[text]`
 🌟❄️☝🏻👉🏻تبدیل متن به صدا🌟❄️☝🏻👉🏻
+
 
 *🕹🎮🌈💥tr* `[lang]` `[word]`
 🌟❄️☝🏻👉🏻ترجمه متن فارسی به انگلیسی وبرعکس🌟❄️☝🏻👉🏻
 🌟❄️☝🏻👉🏻مثال:🌟❄️☝🏻👉🏻
 🌟❄️☝🏻👉🏻🕹🎮🌈💥tr en سلام🌟❄️☝🏻👉🏻
 
+
 *🕹🎮🌈💥sticker* `[word]`
 🌟❄️☝🏻👉🏻تبدیل متن به استیکر🌟❄️☝🏻👉🏻
+
 
 *🕹🎮🌈💥photo* `[word]`
 🌟❄️☝🏻👉🏻تبدیل متن به عکس🌟❄️☝🏻👉🏻
 
+
 *🕹🎮🌈💥calc* `[number]`
 🌟❄️☝🏻👉🏻ماشین حساب🌟❄️☝🏻👉🏻
+
 
 *🕹🎮🌈💥praytime* `[city]`
 🌟❄️☝🏻👉🏻اعلام ساعات شرعی🌟❄️☝🏻👉🏻
 
+
 *🕹🎮🌈💥tosticker* `[reply]`
 🌟❄️☝🏻👉🏻تبدیل عکس به استیکر🌟❄️☝🏻👉🏻
+
 
 *🕹🎮🌈💥tophoto* `[reply]`
 🌟❄️☝🏻👉🏻تبدیل استیکر‌به عکس🌟❄️☝🏻👉🏻
 
+
 *🕹🎮🌈💥weather* `[city]`
 🌟❄️☝🏻👉🏻دریافت اب وهوا🌟❄️☝🏻👉🏻
 
+
+
 *شما میتوانید از [🕹🎮🌈💥/#] در اول دستورات برای اجرای آنها بهره بگیرید*
 
-موفق باشید ;)]]
+🌼شما میتوانید از دستورات استقاده کنید🌼 ;)]]
 end
 return helpfun_en..msg_caption
 end
@@ -411,39 +435,50 @@ _sasan Reborn Fun Help Commands:_
 ⚛️⭕️✳️ساعت⚛️⭕️✳️
 🔹🔶☝️🏻👉🏻Get time in a sticker🔹🔶☝️🏻👉🏻
 
+			
 ⚛️⭕️✳️لینک کوتاه⚛️⭕️✳️ `[لینک]`
 🔹🔶☝️🏻👉🏻Make short url🔹🔶☝️🏻👉🏻
 
+			
 ⚛️⭕️✳️تبدیل به صدا⚛️⭕️✳️ `[متن]`
 🔹🔶☝️🏻👉🏻Convert text to voice🔹🔶☝️🏻👉🏻
 
+			
 ⚛️⭕️✳️ترجمه⚛️⭕️✳️ `[زبان] [کلمه]`
 🔹🔶☝️🏻👉🏻Translates FA to EN and EN to FA🔹🔶☝️🏻👉🏻
 🔹🔶☝️🏻👉🏻Example:🔹🔶☝️🏻👉🏻
 ⚛️⭕️✳️ترجمه hi fa⚛️⭕️✳️
 
+			
 ⚛️⭕️✳️استیکر⚛️⭕️✳️ `[متن]`
 🔹🔶☝️🏻👉🏻Convert text to sticker🔹🔶☝️🏻👉🏻
 
+			
 ⚛️⭕️✳️عکس⚛️⭕️✳️ `[متن]`
 🔹🔶☝️🏻👉🏻Convert text to photo🔹🔶☝️🏻👉🏻
 
+			
 ⚛️⭕️✳️ماشین حساب⚛️⭕️✳️ `[معادله]`
 Calculator
 
+			
 ⚛️⭕️✳️ساعات شرعی⚛️⭕️✳️ `[شهر]`
 🔹🔶☝️🏻👉🏻Get Patent (Pray Time)🔹🔶☝️🏻👉🏻
 
+			
 ⚛️⭕️✳️تبدیل به استیکر⚛️⭕️✳️ `[ریپلی]`
 🔹🔶☝️🏻👉🏻Convert photo to sticker🔹🔶☝️🏻👉🏻
 
+			
 ⚛️⭕️✳️تبدیل به عکس⚛️⭕️✳️ `[ریپلی]`
 🔹🔶☝️🏻👉🏻Convert text to photo🔹🔶☝️🏻👉🏻
 
+			
 ⚛️⭕️✳️اب و هوا⚛️⭕️✳️ `[شهر]`
 🔹🔶☝️🏻👉🏻Get weather🔹🔶☝️🏻👉🏻
 
-*Good luck ;)*]]
+			
+🌼شما میتوانید از دستورات استقاده کنید🌼 ;)*]]
 else
 
 helpfun_fa = [[
@@ -484,7 +519,7 @@ _راهنمای ربات  ساسان_
 ⚛️⭕️✳️اب و هوا⚛️⭕️✳️ `[شهر]`
 🔹🔶☝️🏻👉🏻دریافت اب وهوا🔹🔶☝️🏻👉🏻
 
-موفق باشید ;)]]
+🌼شما میتوانید از دستورات استقاده کنید🌼 ;)]]
 end
 return helpfun_fa..msg_caption
 end
