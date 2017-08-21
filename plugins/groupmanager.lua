@@ -1631,7 +1631,7 @@ if mute_all == "no" then
 if not lang then
 return "🔔⚙️*Mute All* _🔥🌀Is Already Disabled🌀🔥_⚙️🔔" 
 elseif lang then
-return "⚙️🔔قفل گروه غیر فعال شد🌀🔥قفل گروه با موفیقت باز شد🔥🌀بیصدای همه فعال  غیر فعال شد🔔⚙️"
+return "⚙️🔔قفل گروه غیر فعال شد🌀🔥قفل گروه با موفیقت باز شد🔥🌀بیصدای همه غیر فعال شد🔔⚙️"
 end
 else 
 data[tostring(target)]["mutes"]["mute_all"] = "no"
@@ -1639,7 +1639,7 @@ data[tostring(target)]["mutes"]["mute_all"] = "no"
 if not lang then
 return "🔔⚙️*Mute All* _🔥🌀Is Already Disabled🌀🔥_⚙️🔔" 
 else
-return "⚙️🔔قفل گروه غیر فعال شد🌀🔥قفل گروه با موفیقت باز شد🔥🌀بیصدای همه فعال  غیر فعال شد🔔⚙️"
+return "⚙️🔔قفل گروه غیر فعال شد🌀🔥قفل گروه با موفیقت باز شد🔥🌀بیصدای همه غیر فعال شد🔔⚙️"
 end 
 end
 end
@@ -3131,7 +3131,7 @@ if ((matches[1] == 'newlink' and not Clang) or (matches[1] == "لینک جدید
     data[tostring(chat)]['rules'] = matches[2]
 	  save_data(_config.moderation.data, data)
      if not lang then
-    return "*Group rules* _has been set_"
+    return "*⚜️Group rules⚜️* _has been set_"
    else 
   return "قوانین گروه ثبت شد"
    end
@@ -3144,7 +3144,7 @@ if ((matches[1] == 'newlink' and not Clang) or (matches[1] == "لینک جدید
        rules = "ℹ️ قوانین پپیشفرض:\n1⃣ ارسال پیام مکرر ممنوع.\n2⃣ اسپم ممنوع.\n3⃣ تبلیغ ممنوع.\n4⃣ سعی کنید از موضوع خارج نشید.\n5⃣ هرنوع نژاد پرستی, شاخ بازی و پورنوگرافی ممنوع .\n➡️ از قوانین پیروی کنید, در صورت عدم رعایت قوانین اول اخطار و در صورت تکرار مسدود."..msg_caption
  end
         else
-     rules = "*Group Rules :*\n"..data[tostring(chat)]['rules']
+     rules = "*⚜️Group rules⚜️ :*\n"..data[tostring(chat)]['rules']
       end
     return rules
   end
@@ -3247,7 +3247,7 @@ tdcli_function ({
 					data[tostring(chat)]['rules'] = nil
 					save_data(_config.moderation.data, data)
              if not lang then
-				return "🗑*Group rules* _has been cleaned_🗑"
+				return "🗑*⚜️Group rules⚜️* _has been cleaned_🗑"
           else
             return "🗑قوانین گروه پاک شد🗑"
 			end
@@ -3386,20 +3386,20 @@ if (matches[1]:lower() == "setlang" and not Clang) and is_owner(msg) then
 local hash = "gp_lang:"..msg.to.id
 if matches[2] == "fa" then
 redis:set(hash, true)
-return "🌀🔆*زبان گروه تنظیم شد به : فارسی*🌀🔆"..msg_caption
+return "🌀🔆🇮🇷*زبان گروه تنظیم شد به : فارسی*🇮🇷🌀🔆"..msg_caption
   elseif matches[2] == "en" then
  redis:del(hash)
-return "_Group Language Set To:_ EN"..msg_caption
+return "🌀🔆🇱🇷_Group Language Set To:_ EN🇱🇷🌀🔆"..msg_caption
 end
 end
 if (matches[1] == 'زبان' and Clang) and is_owner(msg) then
 local hash = "gp_lang:"..msg.to.id
 if matches[2] == "فارسی" then
 redis:set(hash, true)
-return "🌀🔆*زبان گروه تنظیم شد به : فارسی*🌀🔆"..msg_caption
+return "🌀🔆🇮🇷*زبان گروه تنظیم شد به : فارسی*🇮🇷🌀🔆"..msg_caption
   elseif matches[2] == "انگلیسی" then
  redis:del(hash)
-return "_Group Language Set To:_ EN"..msg_caption
+return "🌀🔆🇱🇷_Group Language Set To:_ EN🇱🇷🌀🔆"..msg_caption
 end
 end
 
@@ -3571,7 +3571,7 @@ text = [[
 
 
 🔥🌟👉🏻rules🔥
- ⭕️💎Show Group Rules ⭕️💎
+ ⭕️💎Show ⚜️Group rules⚜️ ⭕️💎
 
 
 🔥🌟👉🏻about🔥
@@ -3942,7 +3942,7 @@ text = [[
  ⭕️💎Show Group White List Users ⭕️💎
 
 🔥قوانین🔥
- ⭕️💎Show Group Rules ⭕️💎
+ ⭕️💎Show ⚜️Group rules⚜️ ⭕️💎
 
 🔥درباره🔥
  ⭕️💎Show Group Description ⭕️💎
@@ -4240,7 +4240,7 @@ end
 		data[tostring(chat)]['setwelcome'] = matches[2]
 	    save_data(_config.moderation.data, data)
        if not lang then
-		return "_Welcome Message Has Been Set To :_\n*"..matches[2].."*\n\n*You can use :*\n_{gpname} Group Name_\n_{rules} ➣ Show Group Rules_\n_{time} ➣ Show time english _\n_{date} ➣ Show date english _\n_{timefa} ➣ Show time persian _\n_{datefa} ➣ show date persian _\n_{name} ➣ New Member First Name_\n_{username} ➣ New Member Username_"..msg_caption
+		return "🔰_Welcome Message Has Been Set To🔰 :_\n*"..matches[2].."*\n\n*You can use :*\n_{gpname} Group Name_\n_{rules} ➣ Show ⚜️Group rules⚜️_\n_{time} ➣ Show time english _\n_{date} ➣ Show date english _\n_{timefa} ➣ Show time persian _\n_{datefa} ➣ show date persian _\n_{name} ➣ New Member First Name_\n_{username} ➣ New Member Username_"..msg_caption
        else
 		return "_پیام خوشآمد گویی تنظیم شد به :_\n*"..matches[2].."*\n\n*شما میتوانید از*\n_{gpname} نام گروه_\n_{rules} ➣ نمایش قوانین گروه_\n_{time} ➣ ساعت به زبان انگلیسی _\n_{date} ➣ تاریخ به زبان انگلیسی _\n_{timefa} ➣ ساعت به زبان فارسی _\n_{datefa} ➣ تاریخ به زبان فارسی _\n_{name} ➣ نام کاربر جدید_\n_{username} ➣ نام کاربری کاربر جدید_\n_استفاده کنید_"..msg_caption
         end
